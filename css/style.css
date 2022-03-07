@@ -500,6 +500,12 @@ footer.footer .move-up span:hover{
     cursor: pointer;
 }
 
+.copyright,
+.copyright a {
+    color: #fff;
+}
+
+
 /* ---------x------- Footer ----------x---------- */
 
 /*              Viewport less then or equal to 1130px            */
